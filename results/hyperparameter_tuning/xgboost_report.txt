@@ -1,0 +1,9 @@
+Best Parameters:
+{'colsample_bytree': 0.8, 'learning_rate': 0.3, 'max_depth': 9, 'n_estimators': 300, 'subsample': 1.0}
+
+Test Set Metrics:
+RMSE: 1023.0139
+MAE: 706.4961
+MSE: 1046557.5371
+R2: 0.8067
+MAPE: 0.1710
