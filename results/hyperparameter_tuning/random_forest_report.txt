@@ -1,0 +1,7 @@
+Best parameters: {'max_depth': None, 'max_features': 'sqrt', 'min_samples_leaf': 1, 'min_samples_split': 2, 'n_estimators': 200}
+Best CV score (neg MSE): -0.20233180824244004
+Test RMSE: 0.3983799445538995
+Test MAE: 0.29769366028137817
+Test MSE: 0.15870658022276807
+Test R2: 0.8367359529080133
+Test MAPE: 3.7051560349635273
