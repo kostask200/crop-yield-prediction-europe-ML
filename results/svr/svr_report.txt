@@ -1,0 +1,7 @@
+Best parameters: {'C': 10000, 'epsilon': 1.0, 'gamma': 'scale', 'kernel': 'rbf', 'shrinking': True}
+Best CV score (neg MSE): -1302166.4029648048
+RMSE: 1015.2533726374081
+MAE: 710.7864226772658
+MSE: 1030739.4106516318
+R2: 0.8096513811106566
+MAPE: 0.16394149909974756
