@@ -1,7 +1,0 @@
-Best parameters: {'colsample_bytree': 0.8, 'learning_rate': 0.01, 'max_depth': 3, 'n_estimators': 100, 'subsample': 0.8}
-Best CV score (neg MSE): -2899904.382001131
-RMSE: 1627.7071021819459
-MAE: 1315.5896202612707
-MSE: 2649430.4104935476
-R2: 0.5107246174258093
-MAPE: 0.35147812051475363
