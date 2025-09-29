@@ -1,7 +1,7 @@
 feature,importance,feature_label
 WB_CCKP_TNN,0.099021934,Min of Daily Min Temperatures
 WB_CCKP_TR23,0.07969101,Tropical Nights >23°C
-ITEM_Maize,0.07443962,ITEM_Maize
+ITEM_Maize,0.07443962,Maize
 WB_CCKP_PR,0.06590606,Precipitation
 WB_CCKP_HURS,0.057495136,Relative Humidity
 WB_CCKP_TASMAX,0.056615476,Max Temperature
@@ -9,8 +9,8 @@ WB_CCKP_FD,0.04209271,Frost Days
 WB_CCKP_ID,0.04209153,Ice Days
 WB_CCKP_SD,0.040986978,Snow Days
 WB_CCKP_HDD65,0.03844493,Heating Degree Days 65°F
-ITEM_Wheat,0.03362039,ITEM_Wheat
-ITEM_Barley,0.02978892,ITEM_Barley
+ITEM_Wheat,0.03362039,Wheat
+ITEM_Barley,0.02978892,Barley
 WB_CCKP_TR29,0.026122747,Tropical Nights >29°C
 WB_CCKP_TAS,0.025872055,Mean Temperature
 WB_CCKP_TR,0.02513265,Tropical Nights
