@@ -53,8 +53,8 @@ Exploratory data analysis of the merged dataset:
 - Filters the time window (2012–2020)  
 - Analyzes yield trends and highlights extreme years  
 - Computes statistics on production and harvested area  
-- Performs correlation analysis between climate indicators and yield  
 - Groups indicators into heatwave, drought, and frost categories  
+- Performs correlation analysis between climate indicators and yield  
 - **Output:** plots in `results/eda`
 
 ### 3. `03_dataset_preprocessing.ipynb`
