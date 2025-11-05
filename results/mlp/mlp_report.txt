@@ -1,0 +1,7 @@
+Best parameters: {'activation': 'relu', 'alpha': 0.001, 'hidden_layer_sizes': (128, 64), 'max_iter': 300, 'solver': 'lbfgs', 'tol': 0.001}
+Best CV score (neg MSE): -1370018.0355010098
+RMSE: 1031.7521411230218
+MAE: 736.8749705874762
+MSE: 1064512.48071194
+R2: 0.8034144436508106
+MAPE: 0.16531725869490196

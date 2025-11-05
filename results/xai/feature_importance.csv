@@ -1,0 +1,35 @@
+feature,importance,feature_label
+WB_CCKP_TNN,0.099021934,Min of Daily Min Temperatures
+WB_CCKP_TR23,0.07969101,Tropical Nights >23°C
+ITEM_Maize,0.07443962,Maize
+WB_CCKP_PR,0.06590606,Precipitation
+WB_CCKP_HURS,0.057495136,Relative Humidity
+WB_CCKP_TASMAX,0.056615476,Max Temperature
+WB_CCKP_FD,0.04209271,Frost Days
+WB_CCKP_ID,0.04209153,Ice Days
+WB_CCKP_SD,0.040986978,Snow Days
+WB_CCKP_HDD65,0.03844493,Heating Degree Days 65°F
+ITEM_Wheat,0.03362039,Wheat
+ITEM_Barley,0.02978892,Barley
+WB_CCKP_TR29,0.026122747,Tropical Nights >29°C
+WB_CCKP_TAS,0.025872055,Mean Temperature
+WB_CCKP_TR,0.02513265,Tropical Nights
+WB_CCKP_TASMIN,0.022462811,Min Temperature
+WB_CCKP_CDD65,0.021553753,Cooling Degree Days 65°F
+WB_CCKP_TX84RR,0.020451928,Max Temp on Rainy Days (84th %)
+WB_CCKP_TXX,0.020027718,Max of Daily Max Temperatures
+WB_CCKP_TR32,0.01918055,Tropical Nights >32°C
+WB_CCKP_WSDI,0.017571395,Warm Spell Duration Index
+WB_CCKP_TR26,0.015914386,Tropical Nights >26°C
+WB_CCKP_R20MM,0.015652115,Heavy Rain Days (≥20mm)
+WB_CCKP_RX5DAY,0.015336672,Max 5-Day Precipitation
+WB_CCKP_HD30,0.0146648185,Hot Days >30°C
+WB_CCKP_CDD,0.0144129805,Consecutive Dry Days
+WB_CCKP_RX1DAY,0.013808737,Max 1-Day Precipitation
+WB_CCKP_R50MM,0.011367232,Very Heavy Rain Days (≥50mm)
+WB_CCKP_R95PTOT,0.010613495,Extreme Rain (95th percentile)
+WB_CCKP_CWD,0.009462564,Consecutive Wet Days
+WB_CCKP_CSDI,0.008841924,Cold Spell Duration Index
+WB_CCKP_HD35,0.005857796,Hot Days >35°C
+WB_CCKP_HI35,0.0048380657,Heat Index >35°C
+WB_CCKP_HD45,0.00065892487,Hot Days >45°C
