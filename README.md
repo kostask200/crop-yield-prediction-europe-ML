@@ -1,7 +1,5 @@
 # Machine Learning-Based Crop Yield Forecasting for European Agriculture
 
-This dissertation was carried out by Konstantinos Katsantouris and supervised by Dr Ioanna Stamatopoulou as part of the MSc in Artificial Intelligence and Data Science (2025–2026).
-
 ---
 
 ## Repository Structure
