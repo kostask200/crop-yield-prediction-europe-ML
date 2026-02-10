@@ -26,7 +26,7 @@ The repository follows a modular structure, where each folder and notebook corre
   - `gradient_boosting/`: Evaluation metrics for GB
   - `linear_regression/`: Evaluation metrics for LR
   - `mlp/`: Evaluation metrics for MLP
-  - `random_forrest/`: Evaluation metrics for RF
+  - `random_forest/`: Evaluation metrics for RF
   - `svr/`: Evaluation metrics for SVR
   - `xai/`: Explainable AI outputs (SHAP, LIME explanations)
   - `xgboost/`: Evaluation metrics for XGB
